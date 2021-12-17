@@ -15,16 +15,16 @@ def move(msg):
     twist.angular.y = 0.0
     twist.angular.z = 0.0
     if msg=='w':
-        twist.linear.x = 1.0
+        twist.linear.x = 0.5
         twist.angular.z = 0.0
     elif msg=='a':
-        twist.linear.x = 1.0
+        twist.linear.x = 0.5
         twist.angular.z = -1.0
     elif msg=='d':
-        twist.linear.x = 1.0
+        twist.linear.x = 0.5
         twist.angular.z = 1.0
     elif msg=='x':
-        twist.linear.x = -1.0
+        twist.linear.x = -0.5
         twist.angular.z = 0.0
     elif msg=='s':
         twist.linear.x = 0.0
