@@ -1,2 +1,4 @@
 import os
-111
+os.getcwd()
+
+print('line 5')
