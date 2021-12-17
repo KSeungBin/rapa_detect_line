@@ -1,0 +1,6 @@
+devel_space: /home/hans/Develops/rapa_detect_line/devel
+install: false
+install_space: /home/hans/Develops/rapa_detect_line/install
+profile: default
+source_space: /home/hans/Develops/rapa_detect_line/src
+workspace: /home/hans/Develops/rapa_detect_line

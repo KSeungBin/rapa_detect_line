@@ -1,0 +1,1 @@
+/home/hans/Develops/rapa_detect_line/devel/.private/autodrive/lib/pkgconfig/autodrive.pc

@@ -1,0 +1,8 @@
+prefix=/home/hans/Develops/rapa_detect_line/devel/.private/autodrive
+
+Name: autodrive
+Description: Description of autodrive
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
